@@ -1,5 +1,7 @@
 # Sales Performance Dashboard
 
+![Sales Dashboard](Screenshot 2026-04-07 155737.png)
+
 This project analyzes sales data using Power BI.
 
 ## Key Insights:
